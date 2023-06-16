@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-      <div align="center" width="150px">
+      <div align="center" width="50%">
       - Student, developer <br>
       - Cyber Security 🔹 , cloud ☁️ <br>
       - 🏀✈️🖥️⚽🎮 <br>
