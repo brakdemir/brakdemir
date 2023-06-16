@@ -13,13 +13,14 @@
 
 <table>
   <tr>
-    <td valign="center" width="150%">
+    <td valign="center" width="100%">
       - Student, developer <br>
       - Cyber Security 🔹 , cloud ☁️ <br>
       - 🏀✈️🖥️⚽🎮 <br>
     </td>
   </tr>
 </table>
+
 
 
 
