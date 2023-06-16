@@ -1,5 +1,5 @@
 ### Burak Demir 👋
-CSS3 HTML5 JavaScript C++ C AWS Docker PHP MySQL Python Nginx Kubernetes Bash Raspberry Pi Elastic Search XAMPP Linux Jenkins Git RabbitMQ Arduino WordPress GraphQL Ansible Node.js GCP Redis Grafana Maria DB Unity XAML Ruby Java Terraform Go PostgreSQL TensorFlow Photoshop Kibana PowerShell GitLab Salesforce Azure Ruby on Rails MongoDB
+
 <!--
 **brakdemir/brakdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
