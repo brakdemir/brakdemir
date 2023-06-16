@@ -13,8 +13,8 @@
 
 <table>
   <tr>
-    <td valign="top" width=100%">
-      <div align="center">
+    <td valign="top" width="50%">
+      <div align="center" width="50%">
       - Student, developer <br>
       - Cyber Security 🔹 , cloud ☁️ <br>
       - 🏀✈️🖥️⚽🎮 <br>
