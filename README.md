@@ -11,9 +11,9 @@
 <br/>   
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="150%">
 
-- Student,developer, <br>                                               
+- Student,developer <br>                                               
 
 - Cyber Security 🔹 , cloud ☁️ <br>
 
