@@ -11,7 +11,7 @@
 <br/>   
 <br/>  
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 - Student,developer, <br>
 
