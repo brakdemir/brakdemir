@@ -12,7 +12,19 @@
 <br/>  
 <br/>  
 <br/>  
+<br/>  
 
+<table><tr><td valign="top" width="50%">
+
+- a <br>
+
+- a <br>
+
+- ☁️✈️⚽🎮 <br>
+
+
+
+</td><td valign="top" width="50%">
 
 
 
