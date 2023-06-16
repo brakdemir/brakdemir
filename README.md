@@ -13,8 +13,8 @@
 <table>
   <tr>
     <div text-align: left;">
-        - Student, developer <br/>  <br/>  
-        - Cyber Security 🔹 , cloud ☁️ <br/>  <br/>
+        - Student, Developer <br/>  <br/>  
+        - Cyber Security 🔹 , Cloud ☁️ <br/>  <br/>
         - 🏀✈️🖥️⚽🎮 <br/>  <br/>
     </div>
   </tr>
