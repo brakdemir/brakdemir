@@ -13,7 +13,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- Student,developer, <br>
+- Student,developer, <br>                                               
 
 - Cyber Security 🔹 , cloud ☁️ <br>
 
