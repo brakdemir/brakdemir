@@ -12,7 +12,7 @@
 <br/>  
 <table>
   <tr>
-    <div style="border: 1px solid black; width: 50%; text-align: left;">
+    <div style="border: 1px solid white; width: 50%; text-align: left;">
         - Student, developer <br>
         - Cyber Security 🔹 , cloud ☁️ <br>
         - 🏀✈️🖥️⚽🎮 <br>
