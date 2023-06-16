@@ -11,13 +11,13 @@
 <br/>   
 <br/>  
 
-<table><tr><td valign="top" width="150%">
+<table><tr><td valign="center" width="150%">
 
 - Student,developer <br>                                               
 
 - Cyber Security 🔹 , cloud ☁️ <br>
 
-- ☁️✈️⚽🎮 <br>
+- 🏀✈️🖥️⚽🎮 <br>
   </td></tr></table>
 
 
