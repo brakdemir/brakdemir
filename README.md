@@ -8,23 +8,22 @@
 </a>  
 
 
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+<br/>   
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-- a <br>
+- Student,developer, <br>
 
-- a <br>
+- Cyber Security 🔹 , cloud ☁️ <br>
 
 - ☁️✈️⚽🎮 <br>
   </tr></table>
 
 
-
+</br>
+</br>
+</br>
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
