@@ -10,14 +10,19 @@
 
 <br/>   
 <br/>  
-
+    <style>
+        .border-div {
+            border: 1px solid black;
+            width: 50%;
+        }
+    </style>
 <table>
   <tr>
-      <div align="left" width="50%" style="border: 1px solid black;">
-      - Student, developer <br>
-      - Cyber Security 🔹 , cloud ☁️ <br>
-      - 🏀✈️🖥️⚽🎮 <br>
-        </div>
+    <div class="border-div" style="text-align: left;">
+        - Student, developer <br>
+        - Cyber Security 🔹 , cloud ☁️ <br>
+        - 🏀✈️🖥️⚽🎮 <br>
+    </div>
   </tr>
 </table>
 
