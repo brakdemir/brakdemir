@@ -10,15 +10,9 @@
 
 <br/>   
 <br/>  
-    <style>
-        .border-div {
-            border: 1px solid black;
-            width: 50%;
-        }
-    </style>
 <table>
   <tr>
-    <div class="border-div" style="text-align: left;">
+    <div style="border: 1px solid black; width: 50%; text-align: left;">
         - Student, developer <br>
         - Cyber Security 🔹 , cloud ☁️ <br>
         - 🏀✈️🖥️⚽🎮 <br>
