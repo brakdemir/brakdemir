@@ -13,9 +13,9 @@
 <table>
   <tr>
     <div text-align: left;">
-        - Student, developer <br>
-        - Cyber Security 🔹 , cloud ☁️ <br>
-        - 🏀✈️🖥️⚽🎮 <br>
+        - Student, developer <br/>  <br/>  
+        - Cyber Security 🔹 , cloud ☁️ <br/>  <br/>
+        - 🏀✈️🖥️⚽🎮 <br/>  <br/>
     </div>
   </tr>
 </table>
