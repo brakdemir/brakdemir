@@ -18,7 +18,7 @@
 - Cyber Security 🔹 , cloud ☁️ <br>
 
 - ☁️✈️⚽🎮 <br>
-  </td>
+  </td></tr></table>
 
 
 </br>
