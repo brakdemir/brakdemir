@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Student, Developer<br><br>- Cyber Security 🔹 , Cloud ☁️<br><br>- 🏀✈️🖥️⚽🎮<br>
+- Student,<br><br>- Cyber Security 🔹 , Cloud ☁️<br><br>- 🏀✈️🖥️⚽🎮<br>
 
 
 ## 🌐 Socials:
